@@ -7,7 +7,9 @@ node_modules
 
 # testing
 /coverage
-
+projects.js
+links.js
+projectsData.js
 # production
 /build
 
